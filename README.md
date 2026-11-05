@@ -2,9 +2,9 @@
 
 Windows launcher and update feeds for our experimental shared 120-acre Animal Crossing town.
 
-[Download Rooster Games 0.2.0 for Windows](https://github.com/Rooster117stack/roostergames-releases/releases/download/launcher/RoosterGames-0.2.0-x64-setup.exe)
+[Download Rooster Games 0.2.1 for Windows](https://github.com/Rooster117stack/roostergames-releases/releases/download/launcher/RoosterGames-0.2.1-x64-setup.exe)
 
-1. Install Rooster Games 0.2.0. If you already have 0.1.0, install this update once.
+1. Install Rooster Games 0.2.1. If you already have 0.1.0, install this update once.
 2. Open Settings, select your own compatible Animal Crossing USA Rev 0 ISO, and choose your own player profile name.
 3. Click **Download**, then **Play**. The signed catalog supplies the BarnVale server address.
 
