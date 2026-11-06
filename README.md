@@ -1,19 +1,21 @@
-# Rooster Games — BarnVale
+# Rooster Games - BarnVale
 
-Windows launcher and update feeds for our experimental shared 120-acre Animal Crossing town.
+Windows launcher and updates for our experimental shared 120-acre Animal Crossing town.
 
-[Download Rooster Games 0.2.2 for Windows](https://github.com/Rooster117stack/roostergames-releases/releases/download/launcher/RoosterGames-0.2.2-x64-setup.exe)
+[Download Rooster Games 0.2.3 for Windows](https://github.com/Rooster117stack/roostergames-releases/releases/download/launcher/RoosterGames-0.2.3-x64-setup.exe)
 
-1. Install Rooster Games 0.2.2. Existing 0.2.1 users: open Settings, choose **Check launcher update**, then **Install** once before updating the game.
-2. Open Settings, select your own compatible Animal Crossing USA Rev 0 ISO, and choose your own player profile name.
-3. Click **Download**, then **Play**. The signed catalog supplies the BarnVale server address.
+1. Install Rooster Games 0.2.3. Existing users: open Settings, choose **Check launcher update**, and **Install** the launcher update before updating the game.
+2. In Settings, select your own compatible Animal Crossing USA Rev 0 ISO and choose your own player profile name.
+3. Click **Download** or **Update**, then **Play**. The signed catalog supplies BarnVale's server address.
 
-The host must be running the BarnVale server and relay. Friends do not need a VPN or router configuration. If the game opens its introduction, **Space** advances dialogue and **W/S** selects answers.
+The host must keep the BarnVale server and relay running. Friends do not need a VPN or router configuration. If the introduction opens, **Space** advances dialogue and **W/S** selects answers.
 
-The launcher verifies and downloads the official upstream multiplayer release directly, then applies our mod patch locally. This repository does not distribute a game ISO, the complete game executable, extracted disc assets, town saves, player profiles, or server credentials. Each player supplies their own USA Rev 0 (GAFE01_00) disc image. The launcher includes dependency notices and source packages where required.
+The characters and museum update adds native-animated custom avatars, personal character unlocks, and cumulative storage for duplicate museum donations. The existing 120-acre world and gameplay systems remain. This update still needs a fresh playtest from another home; successful downloads and local tests do not establish that result.
 
-This is an experimental fan modification. Installation, file verification, update rollback and local multiplayer were tested. Successful play from another home still needs a real friend connection test; an available download does not establish that test has passed.
+The launcher downloads and verifies the official multiplayer release directly, then applies the reviewed mod patch locally. The patch includes explicitly reviewed custom visual resources and provenance/license notices. The supplied avatar derivative is not declared CC0; original environment models and cap geometry have separate licensing. Keep these notices with the installation.
 
-The underlying project is [ACGC-PC-Multiplayer](https://github.com/vsimochi/ACGC-PC-Multiplayer), using its official v0.4.1 Windows release as the pinned patch base. Retain the supplied licenses and third-party notices. This project is unofficial and is not affiliated with or endorsed by Nintendo. Development used AI assistance (Codex).
+This repository does not distribute the game ISO, a complete game executable, extracted disc assets, town saves, player profiles, or server credentials. Each player provides their own USA Rev 0 (GAFE01_00) disc image. The launcher includes dependency notices and source packages where required.
 
-The `catalog` and `launcher` releases hold the signed update feeds. Use the installer above; the patch ZIP is installed and verified by the launcher.
+The underlying project is [ACGC-PC-Multiplayer](https://github.com/vsimochi/ACGC-PC-Multiplayer), with its official v0.4.1 Windows release as the pinned patch base. This is an unofficial fan modification, not affiliated with or endorsed by Nintendo. Development used AI assistance (Codex).
+
+The `catalog` and `launcher` releases hold the signed update feeds. Use the installer above; the game patch ZIP is installed and verified through the launcher.
